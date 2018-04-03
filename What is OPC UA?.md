@@ -9,7 +9,7 @@ developers. These specifications define the interface between Clients and Server
 and Servers, including access to real-time data, monitoring of alarms and events, access to historical   
 data and other applications.  
 
-Case Study from [youtube video](https://www.youtube.com/watch?v=OnXJMR7ijbM)  
+Case Study from [youtube video](https://www.youtube.com/watch?v=OnXJMR7ijbM=100x20)  
 ![Problem](https://i.imgur.com/1aVZave.png)   
 ![Proprietary solution](https://i.imgur.com/6nyneDm.png)  
 It needs about 19 days and $78000.  
