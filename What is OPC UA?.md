@@ -9,8 +9,8 @@ developers. These specifications define the interface between Clients and Server
 and Servers, including access to real-time data, monitoring of alarms and events, access to historical   
 data and other applications.  
 
-Case Study from [youtube video](https://www.youtube.com/watch?v=OnXJMR7ijbM=100x20)  
-![Problem](https://i.imgur.com/1aVZave.png)   
+Case Study from [youtube video](https://www.youtube.com/watch?v=OnXJMR7ijbM)  
+![Problem](https://i.imgur.com/1aVZave.png=20x20)   
 ![Proprietary solution](https://i.imgur.com/6nyneDm.png)  
 It needs about 19 days and $78000.  
 ![OPC Solution](https://i.imgur.com/qxbhK44.png)
