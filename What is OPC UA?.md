@@ -20,9 +20,9 @@ It needs just about 3 days and $13000.  
 # OPC UA  
 The [OPC Unified Architecture](https://opcfoundation.org/about/opc-technologies/opc-ua/), is a platform independent service-oriented architecture that integrates all the functionality of the individual OPC Classic specifications into one extensible framework.  
 Building on the success of OPC Classic, OPC UA was designed to enhance and surpass the capabilities of the OPC Classic specifications. OPC UA is functionally equivalent to OPC Classic, yet capable of much more:  
-1.**Discovery**: find the availability of OPC Servers on local PCs and/or networks . 
-2.**Address space**: all data is represented hierarchically (e.g. files and folders) allowing for simple and complex  structures to be discovered and utilized by OPC Clients . 
-3.**On-demand**: read and write data/information based on access-permissions . 
-4.**Subscriptions**: monitor data/information and report-by-exception when values change based on a client’s criteria . 
-5.**Events**: notify important information based on client’s criteria . 
-6.**Methods**: clients can execute programs, etc. based on methods defined on the server . 
+1.**Discovery**: find the availability of OPC Servers on local PCs and/or networks  
+2.**Address space**: all data is represented hierarchically (e.g. files and folders) allowing for simple and complex  structures to be discovered and utilized by OPC Clients   
+3.**On-demand**: read and write data/information based on access-permissions   
+4.**Subscriptions**: monitor data/information and report-by-exception when values change based on a client’s criteria   
+5.**Events**: notify important information based on client’s criteria   
+6.**Methods**: clients can execute programs, etc. based on methods defined on the server   
